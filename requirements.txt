@@ -1,0 +1,9 @@
+matplotlib
+numpy
+opencv-python
+path
+sklearn
+pytest
+tensorflow
+tensorflow-hub
+pandas
