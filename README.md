@@ -81,4 +81,4 @@ NOTE: The model is trained for the above mentioned letters so give them only in 
 
 |<img src="https://avatars.githubusercontent.com/u/78701055?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/76533398?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/75940729?v=4" alt="drawing" width="150"/> | 
 |--|--|--|
-|[Ankur Agarwal](https://github.com/Ankur-Agrawal-ece20) |[Aryaman Gupta](https://github.com/phoenixrider12) |[Vivek Agrawal](https://github.com/vivekagarwal2349) |
+|[Aryaman Gupta](https://github.com/phoenixrider12) |[Ankur Agarwal](https://github.com/Ankur-Agrawal-ece20) |[Vivek Agrawal](https://github.com/vivekagarwal2349) |
